@@ -17,4 +17,3 @@ LOCAL_PACKAGE_NAME := com.google.android.maps.jar
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_REQUIRED_MODULES := com.google.android.maps.xml
 include $(BUILD_PREBUILT)
-

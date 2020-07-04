@@ -12,7 +12,5 @@ PRODUCT_PACKAGES += \
     GsfProxy \
     microg-a5k \
     MozillaNlpBackend \
-    nlpBackendDejavu \
     NominatimNlpBackend \
-    OpenWeatherMapWeatherProvider
-
+    nlpBackendDejavu
